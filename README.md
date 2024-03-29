@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atpavithran&label=Profile%20views&color=0e75b6&style=flat" alt="atpavithran" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atpavithran&theme=dark" alt="atpavithran" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atpavithran&theme=darkhub" alt="atpavithran" /></a> </p>
 
 - 🌱 I’m currently learning **NextJS and Pytorch**
 
