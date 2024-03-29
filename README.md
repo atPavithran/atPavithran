@@ -23,8 +23,8 @@
 </p>
 
 <!-- Updated dark theme URLs for GitHub stats cards -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atpavithran&show_icons=true&locale=en&layout=compact&theme=radical" alt="atpavithran" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atpavithran&show_icons=true&locale=en&layout=compact&theme=darkhub" alt="atpavithran" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atpavithran&show_icons=true&locale=en&theme=radical" alt="atpavithran" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atpavithran&show_icons=true&locale=en&theme=darkhub" alt="atpavithran" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atpavithran&theme=dark" alt="atpavithran" /></p>
